@@ -28,7 +28,7 @@ This project is created with:
 * Python - 3.8.5
 
 ## Inspiration
-The project is based on the "Gaming Data with Twitch" project from [Codecademy](https://www.codecademy.com/paths/data-science/tracks/dscp-data-visualization-portfolio-project/modules/dscp-life-expectancy-and-gdp/kanban_projects/life-expectancy-and-gdp-portfolio-project).
+The project is based on the "Life Expectancy and GDP" portfolio project from [Codecademy](https://www.codecademy.com/paths/data-science/tracks/dscp-data-visualization-portfolio-project/modules/dscp-life-expectancy-and-gdp/kanban_projects/life-expectancy-and-gdp-portfolio-project).
 
 ## Contact
 GitHub [@anlifi](https://github.com/anlifi) | LinkedIn [Angelina Fischer](https://www.linkedin.com/in/angelina-fischer-a424111b0/)

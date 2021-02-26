@@ -8,7 +8,7 @@
 * [Contact](#contact)
 
 ## General Info
-This data analysis project will investigate if there is a correlation between the economic performance (GDP, Gross Domestic Product) of a country and the life expectancy of its citizen. The data includes the GDP and life expectancy of six countries from 2000 to 2015 and is provided by [Codecademy](https://www.codecademy.com/).\
+This data analysis project investigates if there is a correlation between the economic performance (GDP, Gross Domestic Product) of a country and the life expectancy of its citizen. The data includes the GDP and life expectancy of six countries from 2000 to 2015 and is provided by [Codecademy](https://www.codecademy.com/).\
 (**Data Sources**: [World Health Organization (WHO)](https://apps.who.int/gho/data/node.main.688) (life expectancy data); [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) national accounts data, and OECD National Accounts data files (GDP data))
 
 The goal of this project is to prepare, analyze and visualize the data, and then trying to explain the findings. This is done inside a Jupyter Notebook using several data analysis Python libraries (e.g, Pandas, Matplotlib, Seaborn, Scipy).
